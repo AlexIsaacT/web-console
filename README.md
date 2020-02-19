@@ -1,16 +1,16 @@
 # web-console
 
-# Clone the repository
+Clone the repository
 
 > git clone https://github.com/AlexIsaacT/web-console.git
 
-# Install dependencies
+Install dependencies
 
 > cd web-console
 
 > npm install
 
-# Running application
+Running application
 
     Provide your remote terminal login credentials in the sshConfig variable in controllers/WebConsole
 
